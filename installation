@@ -1,0 +1,13 @@
+a) Install nodejs  ---->>   https://nodejs.org/en/
+                    ---->>> Download   this file --->> node-v12.16.2-linux-x64.tar.xz
+                    --->> extract it
+                    
+b) checking installation  --->>>> create a file testing.js
+                          -->>> run-->>> node testing.js
+                    
+                    
+                    
+c) for npm installation --->>> curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+                        --->>> sudo apt-get install nodejs npm
+
+d) 
