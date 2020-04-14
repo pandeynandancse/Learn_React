@@ -1,0 +1,14 @@
+
+1) if using hook , then only use function ,no class in entire board
+
+2) useState() and useEffect() -->> two hooks
+
+
+3) class' this.state initialization is done by useState(initial value) in functional component and hook.
+
+4) useState returns array.
+
+
+
+
+
